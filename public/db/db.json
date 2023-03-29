@@ -1,0 +1,39 @@
+{
+"details": [
+    {
+        "id":"1",
+        "name":"Bansari",
+        "email":"bansari@gmail.com",
+        "phone":"2563254213",
+        "country":"India"
+    },
+    {
+        "id":"2",
+        "name":"Bansi",
+        "email":"bansi@gmail.com",
+        "phone":"2563254213",
+        "country":"Australia"
+    },
+    {
+        "id":"3",
+        "name":"Thyona",
+        "email":"thyona@gmail.com",
+        "phone":"2563254213",
+        "country":"USA"
+    },
+    {
+        "id":"4",
+        "name":"Hemali",
+        "email":"Hemali@gmail.com",
+        "phone":"2563254213",
+        "country":"UK"
+    },
+    {
+        "id":"5",
+        "name":"Disha",
+        "email":"disha@gmail.com",
+        "phone":"2563254213",
+        "country":"India"
+    }
+]
+}
